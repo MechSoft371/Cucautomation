@@ -29,6 +29,7 @@ public class Array2 {
 		// find the missing number in array
 		// sort the element in array using loops
 		
+		
 		 
 		
 	}
