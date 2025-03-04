@@ -27,7 +27,10 @@ public class string2 {
 			temp=temp+c[j];
 		}
 		System.out.println("using char:"+temp);
-		
+
+		//method4
+		StringBuilder sd=new StringBuilder(s);
+		System.out.println(sd.reverse());
 		
 	}
 }
