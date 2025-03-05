@@ -23,5 +23,5 @@ public class Array3 {
 		s1="   test  ";
 		System.out.println(s1.trim());
 	}
-
+  
 }
