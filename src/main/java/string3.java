@@ -37,6 +37,7 @@ public class string3 {
 //		boolean b=pa
 		System.out.println(pallidrome("madam"));
 		//remove the junk or speical charachter in string?// *,%,^,&,(,)
+		System.out.println(cleantext("check#$@check$chi"));
 		
 	}
 	
@@ -47,12 +48,12 @@ public class string3 {
 			if ("$#@!".indexOf(s.charAt(i)) != -1) {
 			    temp=temp+s.charAt(i);
 			}else {
-				s.replace(s.charAt(i), "");
+				s.replace("", " ");
 			}
 		}
 		
 		
-		return s;
+		return temp;
 		
 	}
 	
