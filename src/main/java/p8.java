@@ -6,8 +6,10 @@
 public class p8 {
 	
 	public static void main(String[] args) {
-		System.out.println ("I am prudhvi");
-		System.out.print(" I am \'Prudhvi\" ");
+//		System.out.println ("I am prudhvi");
+//		System.out.print(" I am \'Prudhvi\" ");
+		String s = "welcome to java world";
+		
 		
 	}
 

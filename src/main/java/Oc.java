@@ -19,7 +19,7 @@ public class Oc {
 		emp1.emid=123;
 		emp1.ename="john";
 		emp1.job="Manager";
-		emp1.sal=34343456;
+		emp1.sal=34343456; 
 		emp1.display();
 
 	}

@@ -7,10 +7,10 @@ public class String12 {
 		String s="welcome to the world";
 		
 		char c[]= {};
-		
-		for(int i =0; i<=s.length()-1;i++) {
-			ch[]=ch[i]!=0
-		}
+//		
+//		for(int i =0; i<=s.length()-1;i++) {
+//			ch[]=ch[i]!=0
+//		}
 		
 
 	}
