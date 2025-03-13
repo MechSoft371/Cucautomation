@@ -10,6 +10,7 @@ public class poly1main {
 		p1.add(4);//method2
 		
 		p1.add(4, 5, 6);
+		
 
 	}
 
