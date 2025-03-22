@@ -10,7 +10,9 @@ public class commonelement {
 		int[] array1 = {1,2,3,4,5};
 		int[] array2= {4,5,6,7,8};
 		
-		Set<Integer> commonElement = findcommonelement(array1,array2);
+		Set<Integer> commonElements = findcommonelement(array1,array2);
+		
+		System.out.println(commonElements);
 		
 
 	}
